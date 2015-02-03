@@ -1,6 +1,6 @@
 # ProfiAdmin
 
-<img src="https://raw.github.com/r4nd1/template-cpanel-admin-lte/master/demo-img/images_profiadmin.PNG" width="900" />
+<img src="https://raw.github.com/r4nd1/template-cpanel-profi-admin/master/demo-img/images_profiadmin.PNG" width="900" />
 
 ## Uploader
 * Name: Randy Riolis
